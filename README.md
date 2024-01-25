@@ -1,7 +1,7 @@
-## **Squid Game!**
+# [3D Squid Game!](https://3d-squid-game.vercel.app/)
 
 Have you watched the TV show named *Squid Game* on Netflix? 
-Inspired from the TV show, I have created the **bridge game** that appeared on the show. Hi!
+Inspired from the TV show, I have created the **bridge game** that appeared on the show.
 
 #### For this Project, I have...
 - Used **Three.js** to form the scene, and **Cannon.js** as the 3D physics engine to animate the character and the events
@@ -36,6 +36,9 @@ Here are some scenes of the game in different angles. :triangular_ruler:
 ![img1](/readme_pics/12.png)
 
 #### Ready to play the game?
+The game is deployed [HERE](https://3d-squid-game.vercel.app/) 🤗
+
+#### Want to play around with the code locally?
 1. Install these packages
 
     ```
