@@ -37,7 +37,8 @@ const camera = new THREE.PerspectiveCamera(
 const camera2 = camera.clone();
 
 camera.position.x = -4;
-camera.position.y = 19;
+// camera.position.y = 19;
+camera.position.y = 40;
 camera.position.z = 14;
 
 camera2.position.y = 0;

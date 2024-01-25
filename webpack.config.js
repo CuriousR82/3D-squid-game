@@ -16,9 +16,6 @@ module.exports = {
 		path: path.resolve('./dist'),
 		filename: '[name].min.js'
 	},
-	// es5로 빌드 해야 할 경우 주석 제거
-	// 단, 이거 설정하면 webpack-dev-server 3번대 버전에서 live reloading 동작 안함
-	// target: ['web', 'es5'],
 	devServer: {
 		liveReload: true
 	},
