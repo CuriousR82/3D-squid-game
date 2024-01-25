@@ -3,13 +3,13 @@
 Have you watched the TV show named *Squid Game* on Netflix? 
 Inspired from the TV show, I have created the **bridge game** that appeared on the show.
 
-#### For this Project, I have...
+### For this Project, I have...
 - Used **Three.js** to form the scene, and **Cannon.js** as the 3D physics engine to animate the character and the events
 - Worked with **Blender** to model the 3D main character, and created **animations** using the Action Editor tool
 - Delivered **smooth gameplay** to users by using multiple types of cameras and position methods in **Three.js**
 
-#### Let's look at the game first!
-##### Brief overview of the game:
+### Let's look at the game first!
+#### Brief overview of the game:
 - The game consists of one player, and a bridge with **10 strong** glasses, and **10 fragilent** glasses. 
 - To win the game, you will need to jump on 10 strong glasses in a row! :sunglasses:
 
@@ -35,10 +35,10 @@ Here are some scenes of the game in different angles. :triangular_ruler:
 ![img1](/readme_pics/9.png)
 ![img1](/readme_pics/12.png)
 
-#### Ready to play the game?
+### Ready to play the game?
 The game is deployed [HERE](https://3d-squid-game.vercel.app/) 🤗
 
-#### Want to play around with the code locally?
+### Want to play around with the code locally?
 1. Install these packages
 
     ```
